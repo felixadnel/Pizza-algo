@@ -1,2 +1,4 @@
 Step 1: order the pizza 
 Step 2: wait for the delivery 
+step 3: recieve pizza 
+step 4: tip the driver 
